@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SI-Internship/static/css/main.00aeddc1.css",
+    "main.js": "/SI-Internship/static/js/main.ded2310a.js",
+    "static/media/akele.jpg": "/SI-Internship/static/media/akele.eb49d45bbd15aad3ab0d.jpg",
+    "index.html": "/SI-Internship/index.html",
+    "main.00aeddc1.css.map": "/SI-Internship/static/css/main.00aeddc1.css.map",
+    "main.ded2310a.js.map": "/SI-Internship/static/js/main.ded2310a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00aeddc1.css",
+    "static/js/main.ded2310a.js"
+  ]
+}
